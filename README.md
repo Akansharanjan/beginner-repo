@@ -1,3 +1,4 @@
 # beginner-repo
-this is my first github repositories
-author-Akansha ranjan
+This is my first github Repositories.
+<br>
+Author-Akansha ranjan
